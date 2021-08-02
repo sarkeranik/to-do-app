@@ -1,4 +1,4 @@
-# to-do-app
+# A simple you daily To DO APP tracker
 
 ## Project setup
 
